@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "QingaoQU's Personal webpage"
+title                    : "Qingao QU's Personal webpage"
 title_separator          : "-"
 name                     : &name "Qingao QU"
 description              : &description "personal description"
