@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "QU Qingao"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Bachelor of Biomedical Engineering \nCity University of Hong Kong"
   location         : "Hong Kong SAR"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/QingaoQU"
+  github           : #"https://github.com/QingaoQU"
   google_plus      :
   keybase          :
   instagram        :
