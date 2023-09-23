@@ -10,4 +10,3 @@ citation: 'D. Li, J. Zhou, K. Yao, S. Liu, J. He, J. Su, Q. Qu, Y. Gao, Z. Song,
 '
 ---
 [Read online](https://www.science.org/doi/full/10.1126/sciadv.ade2450)<br>
-[Download paper here](http://academicpages.github.io/files/sciadv.ade2450.pdf)
