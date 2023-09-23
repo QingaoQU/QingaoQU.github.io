@@ -10,4 +10,3 @@ citation: 'D. Li, J. Li, P. Wu, G. Zhao, Q. Qu, X. Yu, Recent Advances in Electr
 '
 ---
 [Read online](https://onlinelibrary.wiley.com/doi/full/10.1002/aisy.202300070)<br>
-[Download paper here](http://academicpages.github.io/files/Advanced_Intelligent_Systems2023.pdf)
