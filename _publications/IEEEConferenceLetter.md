@@ -8,4 +8,5 @@ venue: 'IEEE 18th International Conference on Nano/Micro Engineered and Molecula
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10190909'
 citation: 'D. Li, J. Zhou, Q. Qu, X. Yu, "Haptic interface with flexible self-sensing actuators for wireless touch communication" in 2023 IEEE 18th International Conference on Nano/Micro Engineered and Molecular Systems (NEMS) (IEEE, 2023), pp. 10–13.'
 ---
-<br>[Download paper here](https://ieeexplore.ieee.org/abstract/document/10190909)<br>
+
+[Read online](https://ieeexplore.ieee.org/abstract/document/10190909)<br>
