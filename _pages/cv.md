@@ -40,7 +40,7 @@ __Laboratory__
 *	Design and fabrication of the soft robot: 3D molding design and fabrication
 *	Experienced with ECG, EMG signal collection and processing
 *	3D-print from modeling to printing
-*	
+
 __Technology__
  
 *	Knowledge of Python, C, MATLAB, Machine Learning, Computer vision, Unity engine scene building
@@ -64,9 +64,9 @@ Service and leadership
 ======
 * Co-chief mentor: Student mentoring scheme, City University of Hong Kong
   
-  Lead and manage the student mentor team. Organized the student orientation activities and responded to academic-related problems from new students
+    Lead and manage the student mentor team. Organized the student orientation activities and responded to academic-related problems from new students
 * Student ambassador:	Talent program, City University of Hong Kong
   
-  Contributed to multiple workshop organization
+    Contributed to multiple workshop organization
 
 
