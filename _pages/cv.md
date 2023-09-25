@@ -62,4 +62,9 @@ Talks
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Co-chief mentor: Student mentoring scheme, City University of Hong Kong	
+  Lead and manage the student mentor team. Organized the student orientation activities and responded to academic-related problems from new students
+* Student ambassador:	Talent program, City University of Hong Kong	
+  Contributed to multiple workshop organization
+
+
