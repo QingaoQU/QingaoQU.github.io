@@ -19,7 +19,8 @@ __2021- present__
 
 Working in Prof. YU Xinge’s group, do research in the field of Soft Bioelectronics
   * Flexible electronics project: self-sensing and haptic-reproducing electronic skin
-      Collaborated in the design and fabrication of flexible circuits and actuators based on the electromagnetic force in multiple research projects, including the AR-VR interface and IoT communication, with a primary focus on haptic information 
+    
+      Collaborated in the design and fabrication of flexible circuits and actuators based on electromagnetic force in multiple research projects, including the AR-VR interface and IoT communication, with a primary focus on haptic information 
   * Flexible electronics project: sensor-integrated swimming robots
       Evaluated and optimized the performance of the robots, processed and analyzed experimental data
   *	Soft robots project (Ongoing): Designed and fabricated the pneumatic soft robot integrated with multiple sensors and investigated the properties of the materials. Currently, testing and the related piezoelectric sensor for mechanical property perception
