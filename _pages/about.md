@@ -10,7 +10,7 @@ redirect_from:
 
 Hello, welcome to my personal website!<br>
 
-I am a year 4 undergraduate student from [City University of Hong Kong](https://www.cityu.edu.hk/), majored in _**Biomedical Engineering**_.I have worked in Prof.YU Xinge's group since 2021 summer. My research interests are mainly in Bioelectronics, Flexible electronics for haptic sensing/feedback; wearable devices for continuous healthcare monitoring; electronic stimulation for rehabilitation; Soft robotics: Pneumatic robot with integrated sensors
+I am a year 4 undergraduate student from [City University of Hong Kong](https://www.cityu.edu.hk/), majored in [_**Biomedical Engineering**_](https://www.cityu.edu.hk/bme/).I have worked in Prof.YU Xinge's group since 2021 summer. My research interests are mainly in Bioelectronics, Flexible electronics for haptic sensing/feedback; wearable devices for continuous healthcare monitoring; electronic stimulation for rehabilitation; Soft robotics: Pneumatic robot with integrated sensors
 
 At Prof.YU's group, I have contributed to multiple projects.
 
